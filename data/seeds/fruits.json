@@ -1,0 +1,340 @@
+[
+  {
+    "name": "Shimla Apple",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/cf139842-03a4-4da6-843f-4e89a167f35e.png"],
+    "subcategory": "Fresh Fruits",
+    "unit": "1kg",
+    "stock": 50,
+    "price": 200,
+    "discount": 10,
+    "description": "Fresh and juicy Shimla apples from Himachal Pradesh.",
+    "more_details": {
+      "origin": "Himachal Pradesh",
+      "organic": false
+    }
+  },
+  {
+    "name": "Ripe Bananas ",
+    "image": ["https://www.shutterstock.com/image-photo/bunch-bananas-isolated-on-white-600nw-1722111529.jpg"],
+    "subcategory": "Fresh Fruits",
+    "unit": "1 dozen",
+    "stock": 100,
+    "price": 60,
+    "discount": 5,
+    "description": "Sweet Yelakki bananas from Karnataka.",
+    "more_details": {
+      "origin": "Karnataka"
+    }
+  },
+  {
+    "name": "Mango - Alphonso",
+    "image": ["https://media.istockphoto.com/id/1043378762/photo/mango-product-harvest-from-farm.jpg?s=612x612&w=0&k=20&c=Ev3O_gIVUGet4KvfLmoxAkd6XxVwqU81SPPBR0FQEsg="],
+    "subcategory": "Fresh Fruits",
+    "unit": "1kg",
+    "stock": 30,
+    "price": 300,
+    "discount": 15,
+    "description": "King of fruits - premium Alphonso mangoes from Maharashtra.",
+    "more_details": {
+      "origin": "Maharashtra",
+      "seasonal": true
+    }
+  },
+  {
+    "name": "Grapes - Black",
+    "image": ["https://5.imimg.com/data5/VD/FV/FA/SELLER-52971039/black-grapes-5-kg.jpg"],
+    "subcategory": "Fresh Fruits",
+    "unit": "500g",
+    "stock": 40,
+    "price": 120,
+    "discount": 0,
+    "description": "Sweet and juicy black grapes from Nashik.",
+    "more_details": {
+      "origin": "Nashik"
+    }
+  },
+  {
+    "name": "Papaya - Medium",
+    "image": ["https://static.vecteezy.com/system/resources/thumbnails/033/064/927/small_2x/papaya-pawpaw-in-red-orange-and-green-color-shape-for-background-design-free-vector.jpg"],
+    "subcategory": "Fresh Fruits",
+    "unit": "1 piece",
+    "stock": 25,
+    "price": 60,
+    "discount": 0,
+    "description": "Ripe and sweet medium-sized papaya.",
+    "more_details": {
+      "origin": "Kerala"
+    }
+  },
+  {
+    "name": "Orange - Nagpur",
+    "image": ["https://5.imimg.com/data5/SELLER/Default/2022/4/EJ/AP/ZI/106091433/oranges-500x500.jpg"],
+    "subcategory": "Certified Organic",
+    "unit": "1kg",
+    "stock": 40,
+    "price": 140,
+    "discount": 0,
+    "description": "Fresh organic Nagpur oranges.",
+    "more_details": {
+      "origin": "Maharashtra",
+      "organic": true
+    }
+  },
+  {
+    "name": "Pomegranate - Organic",
+    "image": ["https://toneopeats.com/_next/image?url=https%3A%2F%2Ftoneopeats-strapi-prod.s3.ap-south-1.amazonaws.com%2FPomegranate_Benefits_1c9932b0cc.jpg&w=1920&q=75"],
+    "subcategory": "Certified Organic",
+    "unit": "1kg",
+    "stock": 35,
+    "price": 200,
+    "discount": 10,
+    "description": "Organic pomegranates with ruby red arils.",
+    "more_details": {
+      "origin": "Rajasthan",
+      "organic": true
+    }
+  },
+  {
+    "name": "Kiwi - Organic",
+    "image": ["https://media.istockphoto.com/id/537403487/photo/kiwi.jpg?s=612x612&w=0&k=20&c=NC7ogHNUxPDFL3SkcTMOe1vrr6p_5p34n7saoI-jhac="],
+    "subcategory": "Certified Organic",
+    "unit": "6 pieces",
+    "stock": 25,
+    "price": 180,
+    "discount": 5,
+    "description": "Fresh organic kiwi fruits from Himachal Pradesh.",
+    "more_details": {
+      "origin": "Himachal Pradesh",
+      "organic": true
+    }
+  },
+  {
+    "name": "Strawberry - Organic",
+    "image": ["https://media.istockphoto.com/id/911678646/photo/strawberry-on-wooden-background-copy-space.jpg?s=612x612&w=0&k=20&c=cGNe3gyqD6FuVDKnHqEw8FNy8olN2a4osHrLQapG8d4="],
+    "subcategory": "Certified Organic",
+    "unit": "250g",
+    "stock": 20,
+    "price": 160,
+    "discount": 0,
+    "description": "Fresh organic strawberries from Maharashtra.",
+    "more_details": {
+      "origin": "Maharashtra",
+      "organic": true
+    }
+  },
+  {
+    "name": "Blueberry - Organic",
+    "image": ["https://images.unsplash.com/photo-1498557850523-fd3d118b962e?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZWJlcnJpZXN8ZW58MHx8MHx8fDA%3D"],
+    "subcategory": "Certified Organic",
+    "unit": "200g",
+    "stock": 15,
+    "price": 250,
+    "discount": 0,
+    "description": "Fresh organic blueberries from Mysore.",
+    "more_details": {
+      "origin": "Mysore",
+      "organic": true
+    }
+  },
+  {
+    "name": "Mango - Kesar",
+    "image": ["https://aamrai.com/wp-content/uploads/2022/03/GIR-KESAR-.jpg"],
+    "subcategory": "Seasonal",
+    "unit": "1kg",
+    "stock": 25,
+    "price": 280,
+    "discount": 10,
+    "description": "Sweet and juicy Kesar mangoes from Gujarat.",
+    "more_details": {
+      "origin": "Gujarat",
+      "seasonal": true
+    }
+  },
+  {
+    "name": "Lychee - Fresh",
+    "image": ["https://cdn.prod.website-files.com/63ed08484c069d0492f5b0bc/6541539c347478e5fc8368a5_64122b0f471c26a2844d91ee_Close-up-of-lychee.jpeg"],
+    "subcategory": "Seasonal",
+    "unit": "500g",
+    "stock": 30,
+    "price": 180,
+    "discount": 0,
+    "description": "Fresh seasonal lychees from Bihar.",
+    "more_details": {
+      "origin": "Bihar",
+      "seasonal": true
+    }
+  },
+  {
+    "name": "Cherry - Imported",
+    "image": ["https://5.imimg.com/data5/OP/LL/MY-467152/organic-cherries-500x500.jpg"],
+    "subcategory": "Seasonal",
+    "unit": "250g",
+    "stock": 15,
+    "price": 350,
+    "discount": 5,
+    "description": "Seasonal imported cherries.",
+    "more_details": {
+      "origin": "Imported",
+      "seasonal": true
+    }
+  },
+  {
+    "name": "Packham Pear",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/fbeaeab3-9b9d-4b24-993b-8f13cf79a2ff.png"],
+    "subcategory": "Seasonal",
+    "unit": "500g",
+    "stock": 20,
+    "price": 120,
+    "discount": 0,
+    "description": "Juicy Packham pears from Himachal Pradesh.",
+    "more_details": {
+      "origin": "Himachal Pradesh",
+      "seasonal": true
+    }
+  },
+  {
+    "name": "Custard Apple - Seasonal",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5b8efd59-af1c-4c11-92c5-519a313360a3.png"],
+    "subcategory": "Seasonal",
+    "unit": "1kg",
+    "stock": 18,
+    "price": 160,
+    "discount": 0,
+    "description": "Fresh seasonal custard apples from Maharashtra.",
+    "more_details": {
+      "origin": "Maharashtra",
+      "seasonal": true
+    }
+  },
+  {
+    "name": "Mosambi - Sweet Lime",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/274d3ee1-4c7f-40ba-8a40-871a98f7317e.png"],
+    "subcategory": "Citrus Fruits",
+    "unit": "1kg",
+    "stock": 35,
+    "price": 90,
+    "discount": 0,
+    "description": "Fresh and juicy sweet limes (Mosambi).",
+    "more_details": {
+      "origin": "Maharashtra"
+    }
+  },
+  {
+    "name": "Valencia Orange",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6c42f7bd-5324-4f9a-a44b-b831202c4d7c.png"],
+    "subcategory": "Citrus Fruits",
+    "unit": "1kg",
+    "stock": 30,
+    "price": 110,
+    "discount": 5,
+    "description": "Juicy Valencia oranges perfect for juices",
+    "more_details": {
+      "origin": "Imported"
+    }
+  },
+  {
+    "name": "Grapefruit - Red",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c79e9132-cdc1-4454-aba0-96fe348515ba.png"],
+    "subcategory": "Citrus Fruits",
+    "unit": "1 piece",
+    "stock": 25,
+    "price": 70,
+    "discount": 0,
+    "description": "Fresh red grapefruit with tangy flavor.",
+    "more_details": {
+      "origin": "Imported"
+    }
+  },
+  {
+    "name": "Lemon - Organic",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/2d79def7-60ff-4d91-a80d-c99112fd2639.png"],
+    "subcategory": "Citrus Fruits",
+    "unit": "250g",
+    "stock": 40,
+    "price": 40,
+    "discount": 0,
+    "description": "Fresh organic lemons for cooking and beverages.",
+    "more_details": {
+      "origin": "Maharashtra",
+      "organic": true
+    }
+  },
+  {
+    "name": "Guava - Lucknowi",
+    "image": ["https://royalsplant.com/wp-content/uploads/2024/05/d0df1f74-8990-4c13-bad2-1f57c4fcf0b9.webp"],
+    "subcategory": "Fresh Fruits",
+    "unit": "1kg",
+    "stock": 35,
+    "price": 80,
+    "discount": 0,
+    "description": "Fresh Lucknowi guavas with pink flesh.",
+    "more_details": {
+      "origin": "Uttar Pradesh"
+    }
+  },
+  {
+    "name": "Pineapple - Medium",
+    "image": ["https://healthybuddha.in/image/cache/catalog/Pineapple2-500x515.jpg"],
+    "subcategory": "Fresh Fruits",
+    "unit": "1 piece",
+    "stock": 20,
+    "price": 90,
+    "discount": 0,
+    "description": "Sweet and juicy medium-sized pineapples.",
+    "more_details": {
+      "origin": "Assam"
+    }
+  },
+  {
+    "name": "Washington Red Delicious Apple",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/01a6c3e7-d7f3-45e0-a316-bd6858401678.png"],
+    "subcategory": "Exotics",
+    "unit": "2 pieces",
+    "stock": 35,
+    "price": 180,
+    "discount": 0,
+    "description": " Crisp and sweet Washington Red Delicious apples.",
+    "more_details": {
+      "origin": "Imported"
+    }
+  },
+   {
+    "name": "Dragon Fruit",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a285c923-5a02-459d-b4ca-51cec43ce9b6.png"],
+    "subcategory": "Exotics",
+    "unit": "1kg",
+    "stock": 35,
+    "price": 280,
+    "discount": 0,
+    "description": "Exotic dragon fruit with vibrant color and sweet taste.",
+    "more_details": {
+      "origin": "India"
+    }
+  },
+   {
+    "name": "Avocado Hass - Tanzania (2 pieces)",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d2ec407b-1081-4ef8-a544-886203161212.png"],
+    "subcategory": "Exotics",
+    "unit": "2 pieces",
+    "stock": 35,
+    "price": 80,
+    "discount": 0,
+    "description": " Creamy and rich Hass avocados from Tanzania.",
+    "more_details": {
+      "origin": "Tanzania"
+    }
+  },
+    {
+    "name": "Zespri Sungold Kiwi",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d811bc95-60b3-4f3e-94b1-7681ddd263b5.png"],
+    "subcategory": "Exotics",
+    "unit": "2 pieces",
+    "stock": 35,
+    "price": 180,
+    "discount": 0,
+    "description": " Sweet and tangy Zespri Sungold kiwis.",
+    "more_details": {
+      "origin": "New Zealand"
+    }
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "name": "Fortune Mustard Oil",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/caeaa4ff-2a7e-4491-b3d7-73424d35d596.png"],
+    "subcategory": "Oils",
+    "unit": "1L",
+    "stock": 50,
+    "price": 180,
+    "discount": 10,
+    "description": "Cold-pressed mustard oil.",
+    "more_details": {
+      "brand": "Fortune"
+    }
+  },
+  {
+    "name": "Fortune Sunflower Oil",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/94dcff3a-8441-4251-a8e4-985a25a5c301.png"],
+    "subcategory": "Oils",
+    "unit": "1L",
+    "stock": 60,
+    "price": 120,
+    "discount": 5,
+    "description": "Refined sunflower oil.",
+    "more_details": {
+      "brand": "Fortune"
+    }
+  },
+  {
+    "name": "Saffola Gold Sunflower & Rice Bran Refined Blended Cooking Oil (1 ltr)",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/0fc1a0e2-8a3a-4645-99aa-248c78df6ca4.png"],
+    "subcategory": "Oils",
+    "unit": "500ml",
+    "stock": 40,
+    "price": 200,
+    "discount": 15,
+    "description": "Healthy blend of sunflower and rice bran oil.",
+    "more_details": {
+      "brand": "Saffola"
+    }
+  },
+  {
+    "name": "Olive Oil - Extra Virgin",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/8f0e10ff-474f-4c74-92b1-dc486bb8a7fa.png"],
+    "subcategory": "Oils",
+    "unit": "300ml",
+    "stock": 30,
+    "price": 350,
+    "discount": 20,
+    "description": "Premium extra virgin olive oil.",
+    "more_details": {
+      "brand": "Figaro"
+    }
+  },
+  {
+    "name": "Garam Masala Powder",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/63b36c14-e6a2-4c61-bf77-091b9b457c8a.png"],
+    "subcategory": "Masala",
+    "unit": "100g",
+    "stock": 80,
+    "price": 90,
+    "discount": 5,
+    "description": "Aromatic garam masala for all recipes.",
+    "more_details": {
+      "brand": "Everest"
+    }
+  },
+  {
+    "name": "Tata Sampann Turmeric Powder/Haldi with Natural Oils",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/1185155e-c1da-4d52-ad11-7abeb26c0e93.png"],
+    "subcategory": "Masala",
+    "unit": "100g",
+    "stock": 70,
+    "price": 50,
+    "discount": 0,
+    "description": "Pure turmeric powder.",
+    "more_details": {
+      "brand": "Tata"
+    }
+  },
+  {
+    "name": "Everest Kashmiri Red Chili Powder",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3213c120-52fd-4ed5-9772-dfdeae8329e4.png"],
+    "subcategory": "Masala",
+    "unit": "100g",
+    "stock": 65,
+    "price": 80,
+    "discount": 0,
+    "description": "Spicy red chili powder.",
+    "more_details": {
+      "brand": "Everest"
+    }
+  },
+  {
+    "name": "Cumin Powder",
+    "image": ["https://5.imimg.com/data5/SELLER/Default/2024/4/414850636/ZV/XF/KV/71365119/jeera-22bca379-7604-4018-847d-7a58fa64b2c6-1280x.jpg"],
+    "subcategory": "Masala",
+    "unit": "100g",
+    "stock": 60,
+    "price": 60,
+    "discount": 5,
+    "description": "Aromatic cumin powder.",
+    "more_details": {
+      "brand": "MDH"
+    }
+  },
+  {
+    "name": "Coriander Powder",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/434d863f-688f-41c2-b8c5-a84d9452e375.png"],
+    "subcategory": "Masala",
+    "unit": "100g",
+    "stock": 55,
+    "price": 45,
+    "discount": 0,
+    "description": "Freshly ground coriander powder.",
+    "more_details": {
+      "brand": "Everest"
+    }
+  },
+  {
+    "name": "Whole Farm Grocery Almonds (200 g)",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/372a643d-7084-4609-af94-cf4bc0ce4a05.png"],
+    "subcategory": "Dry Fruits",
+    "unit": "250g",
+    "stock": 60,
+    "price": 400,
+    "discount": 20,
+    "description": "High-quality almonds.",
+    "more_details": {
+      "brand": "Whole Farm"
+    }
+  },
+  {
+    "name": "Happilo 100% Premium King size Whole Cashew",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/fc3ff265-d6d6-4a87-ad80-88d43f98e34c.png"],
+    "subcategory": "Dry Fruits",
+    "unit": "250g",
+    "stock": 50,
+    "price": 350,
+    "discount": 15,
+    "description": "Premium whole cashews.",
+    "more_details": {
+      "brand": "Happilo"
+    }
+  },
+  {
+    "name": "Raisins - Premium Black",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/998cc7ce-a87f-45ff-ac6a-42fb8e60c550.png"],
+    "subcategory": "Dry Fruits",
+    "unit": "250g",
+    "stock": 40,
+    "price": 120,
+    "discount": 10,
+    "description": "Sweet black raisins.",
+    "more_details": {
+      "brand": "Whole Farm"
+    }
+  },
+  {
+    "name": "Tata Sampann 100% Pure Premium Walnuts",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c14ec708-5aff-4e1f-be0d-c47b540fbc36.png"],
+    "subcategory": "Dry Fruits",
+    "unit": "250g",
+    "stock": 35,
+    "price": 300,
+    "discount": 5,
+    "description": "Fresh shelled walnuts.",
+    "more_details": {
+      "brand": "Tata"
+    }
+  },
+  {
+    "name": "Farmley Iranian Roasted And Salted Pistachios",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/599513ca-fe3a-48a8-9359-c863b71bdd1b.png"],
+    "subcategory": "Dry Fruits",
+    "unit": "250g",
+    "stock": 45,
+    "price": 420,
+    "discount": 15,
+    "description": "Premium roasted pistachios.",
+    "more_details": {
+      "brand": "Farmley"
+    }
+  },
+  {
+    "name": "Rock Salt - Pink",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/31ca6fbb-19eb-41c7-9e91-266a10b52208.png"],
+    "subcategory": "Salt and Sugar",
+    "unit": "500g",
+    "stock": 50,
+    "price": 60,
+    "discount": 0,
+    "description": "Pure pink rock salt.",
+    "more_details": {
+      "brand": "Tata"
+    }
+  },
+  {
+    "name": "White Sugar - Granulated",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/e24164fa-4851-46a4-995f-2a3c540c63ec.png"],
+    "subcategory": "Salt and Sugar",
+    "unit": "1kg",
+    "stock": 80,
+    "price": 45,
+    "discount": 0,
+    "description": "Pure white granulated sugar.",
+    "more_details": {
+      "brand": "Fortune"
+    }
+  },
+  {
+    "name": "True Story Natural Organic Brown Sugar",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/8a0c0dc5-5191-4a71-a861-a775d38bf854.png"],
+    "subcategory": "Salt and Sugar",
+    "unit": "500g",
+    "stock": 30,
+    "price": 80,
+    "discount": 10,
+    "description": "Organic brown sugar.",
+    "more_details": {
+      "brand": "Tata",
+      "organic": true
+    }
+  },
+  {
+    "name": "Whole Farm Premium Jaggery",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/29657dcc-2afd-43bb-9d9c-12b5267d8df5.png"],
+    "subcategory": "Salt and Sugar",
+    "unit": "500g",
+    "stock": 35,
+    "price": 70,
+    "discount": 5,
+    "description": "Pure organic jaggery.",
+    "more_details": {
+      "brand": "Whole Farm",
+      "organic": true
+    }
+  }
+]

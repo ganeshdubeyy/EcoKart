@@ -1,0 +1,31 @@
+{
+  "name": "ecokart-ecommerce",
+  "version": "1.0.0",
+  "description": "EcoKart E-commerce Platform",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "seed:import": "node scripts/seedProducts.js --import",
+    "seed:delete": "node scripts/seedProducts.js --delete",
+    "seed:preview": "node scripts/seedProducts.js --preview",
+    "server:start": "cd server && npm start",
+    "server:dev": "cd server && npm run dev",
+    "client:start": "cd client && npm run dev",
+    "client:build": "cd client && npm run build",
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install"
+  },
+  "keywords": [
+    "ecommerce",
+    "react",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.7.0"
+  }
+}
+
+
+

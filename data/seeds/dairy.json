@@ -1,0 +1,264 @@
+[
+  {
+    "name": "Amul Taaza Toned Milk",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5734b087-3ad9-485f-bbe2-52079cd9e35d.png"],
+    "subcategory": "Milk",
+    "unit": "1L",
+    "stock": 100,
+    "price": 60,
+    "discount": 0,
+    "description": "Fresh full cream cow milk.",
+    "more_details": {
+      "brand": "Amul"
+    }
+  },
+  {
+    "name": "Gokul Full Cream Milk",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=120,h=120/da/cms-assets/cms/product/2d44d658-b14d-4837-b483-0bcc099dbf35.jpg"],
+    "subcategory": "Milk",
+    "unit": "1L",
+    "stock": 80,
+    "price": 80,
+    "discount": 5,
+    "description": "Rich and creamy buffalo milk.",
+    "more_details": {
+      "brand": "Gokul"
+    }
+  },
+  {
+    "name": "Amul Buffalo A2 Milk",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/1ded64a0-9f20-4a1d-8211-156f221b377b.png"],
+    "subcategory": "Milk",
+    "unit": "1L",
+    "stock": 90,
+    "price": 55,
+    "discount": 0,
+    "description": "Low fat toned milk.",
+    "more_details": {
+      "brand": "Amul"
+    }
+  },
+  {
+    "name": "Country Delight Double Toned Milk",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b29ac54f-74fb-4e33-9e68-cde5598bd529.png"],
+    "subcategory": "Milk",
+    "unit": "500ml",
+    "stock": 70,
+    "price": 50,
+    "discount": 0,
+    "description": "Healthy double toned milk.",
+    "more_details": {
+      "brand": "Country Delight"
+    }
+  },
+  {
+    "name": "Amul Kool Kesar Flavoured Milk",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3a2b8e76-a76c-4a6d-acd9-dbe89b704619.png"],
+    "subcategory": "Milk",
+    "unit": "150ml",
+    "stock": 50,
+    "price": 20,
+    "discount": 5,
+    "description": "Unsweetened plant-based soy milk.",
+    "more_details": {
+      "brand": "Amul"
+    }
+  },
+  {
+    "name": "Amul Pure Milk Cheese Slices",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a501e65f-194b-4db2-abc9-6b7bb515349c.png"],
+    "subcategory": "Cheese",
+    "unit": "200g",
+    "stock": 60,
+    "price": 120,
+    "discount": 0,
+    "description": "Aged cheddar cheese block.",
+    "more_details": {
+      "brand": "Amul"
+    }
+  },
+  {
+    "name": "Mozzarella Cheese - Shredded",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/0f1d0333-36c2-47e4-b8f5-9ffcb526295c.png"],
+    "subcategory": "Cheese",
+    "unit": "200g",
+    "stock": 50,
+    "price": 100,
+    "discount": 5,
+    "description": "Shredded mozzarella cheese.",
+    "more_details": {
+      "brand": "Mother Dairy"
+    }
+  },
+  {
+    "name": "Processed Cheese Slices",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d4221631-d230-43f7-b15b-05d672063261.png"],
+    "subcategory": "Cheese",
+    "unit": "200g",
+    "stock": 70,
+    "price": 90,
+    "discount": 0,
+    "description": "Easy melting processed cheese slices.",
+    "more_details": {
+      "brand": "D'lecta"
+    }
+  },
+  {
+    "name": "Paneer - Fresh",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/7a1700ee-dd38-49cf-b34e-171ff84ac0e7.png"],
+    "subcategory": "Paneer",
+    "unit": "200g",
+    "stock": 50,
+    "price": 90,
+    "discount": 10,
+    "description": "Soft fresh paneer.",
+    "more_details": {
+      "brand": "Amul"
+    }
+  },
+  {
+    "name": "Country Delight Taaza Paneer",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/0659b950-c287-4433-994a-9bb0c8c05a13.png"],
+    "subcategory": "Paneer",
+    "unit": "200g",
+    "stock": 30,
+    "price": 120,
+    "discount": 0,
+    "description": "Organic fresh paneer.",
+    "more_details": {
+      "brand": " Country Delight",
+      "organic": true
+    }
+  },
+  {
+    "name": "Paneer Cubes",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/52377f0e-2ee1-4d3f-a0d6-f34934b71f0f.png"],
+    "subcategory": "Paneer",
+    "unit": "200g",
+    "stock": 40,
+    "price": 100,
+    "discount": 5,
+    "description": "Convenient diced paneer cubes.",
+    "more_details": {
+      "brand": "Amul"
+    }
+  },
+  {
+    "name": "Fresh Cream - Heavy",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/739ee060-94b5-45f3-b560-c31ebc773a1f.png"],
+    "subcategory": "Cream",
+    "unit": "200ml",
+    "stock": 40,
+    "price": 50,
+    "discount": 0,
+    "description": "Heavy fresh cream for cooking.",
+    "more_details": {
+      "brand": "D'lecta"
+    }
+  },
+  {
+    "name": "Mother Dairy Low Fat Fresh Cream",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/9324b66e-bce8-470f-b139-8261eef2859d.png"],
+    "subcategory": "Cream",
+    "unit": "200ml",
+    "stock": 35,
+    "price": 60,
+    "discount": 5,
+    "description": "Whipping cream for desserts.",
+    "more_details": {
+      "brand": "Mother Dairy"
+    }
+  },
+  {
+    "name": "Cremeitalia Cream Cheese",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/bb9464ff-8ffb-4a8d-8306-cf78a2f85c80.png"],
+    "subcategory": "Cream",
+    "unit": "200g",
+    "stock": 40,
+    "price": 75,
+    "discount": 0,
+    "description": "Smooth and creamy cheese spread.",
+    "more_details": {
+      "brand": "Cremeitalia"
+    }
+  },
+  {
+    "name": "Curd - Homemade Style",
+    "image": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzzGGLl1rRLE_RcQll6ZBECTate3xZLEPzw&s"],
+    "subcategory": "Curd",
+    "unit": "500g",
+    "stock": 60,
+    "price": 50,
+    "discount": 0,
+    "description": "Thick and creamy curd.",
+    "more_details": {
+      "brand": "Local Farms"
+    }
+  },
+  {
+    "name": "Greek Yogurt - Protein Rich",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/7338c3fd-9ff7-47c1-a3ef-6b9c428f197d.png"],
+    "subcategory": "Curd",
+    "unit": "200g",
+    "stock": 45,
+    "price": 80,
+    "discount": 10,
+    "description": "High protein Greek yogurt.",
+    "more_details": {
+      "brand": "Epigamia"
+    }
+  },
+  {
+    "name": "Flavored Yogurt - Strawberry",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/9b149001-0d9d-42d6-b78a-600bb91a2dd1.png"],
+    "subcategory": "Curd",
+    "unit": "150g",
+    "stock": 50,
+    "price": 60,
+    "discount": 0,
+    "description": "Strawberry flavored yogurt.",
+    "more_details": {
+      "brand": "Amul"
+    }
+  },
+  {
+    "name": "Wild Honey - Pure",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/ef33b15a-3b65-4103-9d7d-0029b1ff1a4a.png"],
+    "subcategory": "Honey",
+    "unit": "500g",
+    "stock": 25,
+    "price": 200,
+    "discount": 15,
+    "description": "Pure wild forest honey.",
+    "more_details": {
+      "brand": "Dabur",
+      "organic": true
+    }
+  },
+  {
+    "name": "Patanjali Multiflower Honey",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6867cc90-5d1f-41ca-b0f4-e595d0116f0a.png"],
+    "subcategory": "Honey",
+    "unit": "500g",
+    "stock": 30,
+    "price": 150,
+    "discount": 0,
+    "description": "Natural multiflower honey.",
+    "more_details": {
+      "brand": "Patanjali"
+    }
+  },
+  {
+    "name": "Dabur Honey Squeezy, 100% Pure World's No.1 Honey Brand - Buy 1 Get 1 Free",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/56151dd5-70ab-4af0-8807-5ecf0f98e0ba.png"],
+    "subcategory": "Honey",
+    "unit": "400 g + 400 g",
+    "stock": 20,
+    "price": 320,
+    "discount": 5,
+    "description": "Premium acacia honey.",
+    "more_details": {
+      "brand": "Dabur"
+    }
+  }
+]

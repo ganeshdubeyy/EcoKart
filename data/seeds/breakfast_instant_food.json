@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Maggi Masala Noodles",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/552b96c3-d2de-42ec-acc2-d41b8cde518c.png"],
+    "subcategory": "Instant Noodles",
+    "unit": "280g",
+    "stock": 100,
+    "price": 60,
+    "discount": 5,
+    "description": "Instant masala noodles - ready in 2 minutes.",
+    "more_details": {
+      "brand": "Nestle"
+    }
+  },
+  {
+    "name": "Yippee Magic Masala Instant Noodles with Added Veggies",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c188e50b-95c3-4231-8584-bc49f2f6ad73.png"],
+    "subcategory": "Instant Noodles",
+    "unit": "250g",
+    "stock": 80,
+    "price": 55,
+    "discount": 0,
+    "description": "Delicious Yippee instant noodles.",
+    "more_details": {
+      "brand": "Yippee"
+    }
+  },
+  {
+    "name": "Maggi Cuppa Masala Cup Noodles",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/522254a6-b805-46f0-87d1-442b052ee209.png"],
+    "subcategory": "Instant Noodles",
+    "unit": "80g",
+    "stock": 75,
+    "price": 50,
+    "discount": 0,
+    "description": "Non-sticky instant noodles with masala taste.",
+    "more_details": {
+      "brand": "Nestle"
+    }
+  },
+  {
+    "name": "Wai Wai Instant Noodles",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/16140cb7-835e-4a43-9a62-7f206640bc5a.png"],
+    "subcategory": "Instant Noodles",
+    "unit": "5-pack",
+    "stock": 60,
+    "price": 50,
+    "discount": 0,
+    "description": "Popular Nepalese instant noodles with spices.",
+    "more_details": {
+      "brand": "Wai Wai"
+    }
+  },
+  {
+    "name": "McCain French Fries (Frozen)",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/8eed6c57-c17f-4753-9483-06d27f5a76f0.png"],
+    "subcategory": "Frozen Veg Snacks",
+    "unit": "420g",
+    "stock": 50,
+    "price": 99,
+    "discount": 0,
+    "description": "Crispy frozen french fries - just bake or fry.",
+    "more_details": {
+      "brand": "McCain"
+    }
+  },
+  {
+    "name": "Veggie Treat Spring Rolls (Frozen)",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d9438022-ccbd-4b92-b30c-1d5cb1d45bd1.png"],
+    "subcategory": "Frozen Veg Snacks",
+    "unit": "300g",
+    "stock": 40,
+    "price": 120,
+    "discount": 10,
+    "description": "Crispy vegetable spring rolls - ready to bake or fry.",
+    "more_details": {
+      "brand": "Veggie Treat"
+    }
+  },
+  {
+    "name": "McCain Smiles (Frozen)",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=120,h=120/da/cms-assets/cms/product/13dc480d-868b-473b-b9b9-adfbcb863e24.jpg"],
+    "subcategory": "Frozen Veg Snacks",
+    "unit": "300g",
+    "stock": 40,
+    "price": 120,
+    "discount": 10,
+    "description": "Fun shaped potato smiles - just bake or fry.",
+    "more_details": {
+      "brand": "McCain"
+    }
+  },
+  {
+    "name": "Saffola Oats - Masala Flavor",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/4abf74b7-b4e5-429c-9c83-f53f5da77a53.png"],
+    "subcategory": "Oats and Corn Flakes",
+    "unit": "500g",
+    "stock": 70,
+    "price": 130,
+    "discount": 5,
+    "description": "Healthy oats with masala flavor.",
+    "more_details": {
+      "brand": "Saffola"
+    }
+  },
+  {
+    "name": "Kellogg's Corn Flakes",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/f0d52e5e-bfcf-46a1-a01f-825618ef9046.png"],
+    "subcategory": "Oats and Corn Flakes",
+    "unit": "475g",
+    "stock": 65,
+    "price": 195,
+    "discount": 10,
+    "description": "Crispy corn flakes for nutritious breakfast.",
+    "more_details": {
+      "brand": "Kellogg's",
+      "type": "Corn Flakes"
+    }
+  },
+  {
+    "name": "Kellogg's Chocos",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b47dce45-9415-44a8-a54b-fcfd8733bb27.png"],
+    "subcategory": "Oats and Corn Flakes",
+    "unit": "450g",
+    "stock": 55,
+    "price": 210,
+    "discount": 0,
+    "description": "Chocolate flavored cereal for kids.",
+    "more_details": {
+      "brand": "Kellogg's"
+    }
+  },
+  {
+    "name": "Quaker Oats",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3b80c9c1-8e29-4cd2-8239-234c83e9a241.png"],
+    "subcategory": "Oats and Corn Flakes",
+    "unit": "500g",
+    "stock": 75,
+    "price": 135,
+    "discount": 0,
+    "description": "100% whole grain oats for nutritious meals.",
+    "more_details": {
+      "brand": "Quaker",
+      "type": "Oats"
+    }
+  },
+  {
+    "name": "Maggi Pazzta Masala Penne Instant Pasta",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=120,h=120/da/cms-assets/cms/product/645021b5-36d7-4f6a-a6a6-666bc07fe67c.jpg"],
+    "subcategory": "Pasta & more",
+    "unit": "1 pack",
+    "stock": 50,
+    "price": 85,
+    "discount": 0,
+    "description": " Instant penne pasta with masala flavor.",
+    "more_details": {
+      "brand": "Nestle"
+    }
+  },
+    {
+    "name": "Disano Penne Pasta (100 % Durum Wheat)",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/e10fa8b9-84d6-4665-add3-feb7e1d47dcf.png"],
+    "subcategory": "Pasta & more",
+    "unit": "1 pack",
+    "stock": 50,
+    "price": 85,
+    "discount": 0,
+    "description": " Durum wheat penne pasta - ideal for Italian dishes.",
+    "more_details": {
+      "brand": "Disano"
+    }
+  },
+    {
+    "name": "Knorr Thick Tomato Soup",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b3899b63-8e88-4a86-a4a4-8a6d03eed3cd.png"],
+    "subcategory": "Pasta & more",
+    "unit": "1 pack",
+    "stock": 50,
+    "price": 85,
+    "discount": 0,
+    "description": " Rich and creamy tomato soup mix.",
+    "more_details": {
+      "brand": "Knorr"
+    }
+  }
+]

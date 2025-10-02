@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Cadbury Dairy Milk Chocolate",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/e629d872-9d52-4f77-b540-80c7e1bcb106.png"],
+    "subcategory": "Chocolates",
+    "unit": "1 bar (55g)",
+    "stock": 100,
+    "price": 55,
+    "discount": 5,
+    "description": "Creamy milk chocolate bar.",
+    "more_details": {
+      "brand": "Cadbury",
+      "flavor": "Milk Chocolate"
+    }
+  },
+  {
+    "name": "Nestle KitKat Chocolate",
+    "image": ["data:image/jpeg;base64,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"],
+    "subcategory": "Chocolates",
+    "unit": "1 bar (41g)",
+    "stock": 85,
+    "price": 40,
+    "discount": 0,
+    "description": "Crispy wafer fingers covered in chocolate.",
+    "more_details": {
+      "brand": "Nestle",
+      "flavor": "Wafer Chocolate"
+    }
+  },
+  {
+    "name": "Amul Dark Chocolate",
+    "image": ["https://rukminim2.flixcart.com/image/704/844/xif0q/chocolate/j/i/b/dark-chocolate-150g-amul-original-imah4ygf4gbv4srp.jpeg?q=20&crop=false"],
+    "subcategory": "Chocolates",
+    "unit": "1 bar (70g)",
+    "stock": 70,
+    "price": 90,
+    "discount": 0,
+    "description": "Rich dark chocolate with 55% cocoa.",
+    "more_details": {
+      "brand": "Amul",
+      "flavor": "Dark Chocolate"
+    }
+  },
+  {
+    "name": "Ferrero Rocher Chocolates",
+    "image": ["https://images-cdn.ubuy.co.in/633ff2ff629d7303fa00d9f4-ferrero-rocher-fine-hazelnut-chocolates.jpg"],
+    "subcategory": "Chocolates",
+    "unit": "3 pieces",
+    "stock": 60,
+    "price": 95,
+    "discount": 0,
+    "description": "Premium hazelnut chocolates in gold wrapper.",
+    "more_details": {
+      "brand": "Ferrero",
+      "flavor": "Hazelnut"
+    }
+  },
+  {
+    "name": "Lindt Excellence Chocolate",
+    "image": ["https://m.media-amazon.com/images/I/71wVgnD8VqL.jpg"],
+    "subcategory": "Chocolates",
+    "unit": "1 bar (100g)",
+    "stock": 45,
+    "price": 250,
+    "discount": 10,
+    "description": "Premium Swiss chocolate with smooth texture.",
+    "more_details": {
+      "brand": "Lindt",
+      "flavor": "Milk Chocolate"
+    }
+  },
+  {
+    "name": "Haldiram's Rasgulla",
+    "image": ["https://www.haldirams.com/media/catalog/product/cache/71134970afb779eb7860339989626b7e/r/a/rasgulla_6.jpg"],
+    "subcategory": "Indian Sweets",
+    "unit": "500g",
+    "stock": 50,
+    "price": 180,
+    "discount": 0,
+    "description": "Soft spongy rasgulla in light sugar syrup.",
+    "more_details": {
+      "brand": "Haldiram's",
+      "type": "Rasgulla"
+    }
+  },
+  {
+    "name": "Bikano Gulab Jamun",
+    "image": ["https://m.media-amazon.com/images/I/81JcbTrjn7L.jpg"],
+    "subcategory": "Indian Sweets",
+    "unit": "500g",
+    "stock": 55,
+    "price": 200,
+    "discount": 5,
+    "description": "Soft khoya gulab jamun in sugar syrup.",
+    "more_details": {
+      "brand": "Bikano",
+      "type": "Gulab Jamun"
+    }
+  },
+  {
+    "name": "Haldiram's Soan Papdi",
+    "image": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb5fgab8v4ApfzHzJ9SxVUHjDLLlVCwEy9Ag&s"],
+    "subcategory": "Indian Sweets",
+    "unit": "400g",
+    "stock": 60,
+    "price": 150,
+    "discount": 0,
+    "description": "Flaky traditional Indian sweet with cardamom flavor.",
+    "more_details": {
+      "brand": "Haldiram's",
+      "type": "Soan Papdi"
+    }
+  },
+  {
+    "name": "Bikano Kaju Katli",
+    "image": ["https://www.jiomart.com/images/product/original/492490091/bikano-kaju-katli-100-g-product-images-o492490091-p591217752-2-202206201641.jpg?im=Resize=(420,420)"],
+    "subcategory": "Indian Sweets",
+    "unit": "250g",
+    "stock": 40,
+    "price": 280,
+    "discount": 0,
+    "description": "Diamond-shaped cashew fudge with silver leaf.",
+    "more_details": {
+      "brand": "Bikano",
+      "type": "Kaju Katli"
+    }
+  },
+  {
+    "name": "Amul Ice Cream - Butterscotch",
+    "image": ["https://frugivore-bucket.s3.amazonaws.com/media/package/img_one/2020-12-02/Amul_Butterscotch_Bliss.jpg"],
+    "subcategory": "Ice Cream & Desserts",
+    "unit": "1L",
+    "stock": 40,
+    "price": 220,
+    "discount": 0,
+    "description": "Creamy butterscotch flavored ice cream.",
+    "more_details": {
+      "brand": "Amul",
+      "flavor": "Butterscotch"
+    }
+  },
+  {
+    "name": "Kwality Walls Vanilla Ice Cream",
+    "image": ["https://assets.unileversolutions.com/v1/1862863.png"],
+    "subcategory": "Ice Cream & Desserts",
+    "unit": "1L",
+    "stock": 45,
+    "price": 240,
+    "discount": 5,
+    "description": "Classic vanilla ice cream.",
+    "more_details": {
+      "brand": "Kwality Walls",
+      "flavor": "Vanilla"
+    }
+  },
+  {
+    "name": "Häagen-Dazs Chocolate Ice Cream",
+    "image": ["https://www.icecream.com/content/dam/dreyersgrandicecreaminc/us/en/haagen-dazs/products/package-refresh/ice-cream/Haagen-Dazs-chocolate-14oz-1500x1140.webp"],
+    "subcategory": "Ice Cream & Desserts",
+    "unit": "500ml",
+    "stock": 30,
+    "price": 450,
+    "discount": 0,
+    "description": "Premium chocolate ice cream.",
+    "more_details": {
+      "brand": "Häagen-Dazs",
+      "flavor": "Chocolate"
+    }
+  },
+  {
+    "name": "Gulab Jamun with Ice Cream",
+    "image": ["https://vismaifood.com/storage/app/uploads/public/110/aa9/501/thumb__700_0_0_0_auto.jpg"],
+    "subcategory": "Ice Cream & Desserts",
+    "unit": "2 pieces",
+    "stock": 35,
+    "price": 120,
+    "discount": 0,
+    "description": "Hot gulab jamun served with vanilla ice cream.",
+    "more_details": {
+      "brand": "Haldiram's",
+      "type": "Dessert Combo"
+    }
+  },
+  {
+    "name": "Brownie with Ice Cream",
+    "image": ["https://img.taste.com.au/e_PAz3pS/taste/2016/11/rich-chocolate-brownie-with-vanilla-bean-ice-cream-76209-1.jpeg"],
+    "subcategory": "Ice Cream & Desserts",
+    "unit": "1 serving",
+    "stock": 25,
+    "price": 150,
+    "discount": 0,
+    "description": "Chocolate brownie with vanilla ice cream.",
+    "more_details": {
+      "brand": "Haldiram's",
+      "type": "Dessert Combo"
+    }
+  },
+  {
+    "name": "Yoga Bar Chocolate Chunk Nut Multigrain Energy Bar ",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/1bf2854e-3a80-433a-9de7-c00642947b79.png"],
+    "subcategory": "Energy Bars",
+    "unit": "35g",
+    "stock": 25,
+    "price": 50,
+    "discount": 0,
+    "description": " Chocolate Bar with nuts and multigrains.",
+    "more_details": {
+      "brand": "Yoga Bar",
+      "type": "Dessert Combo"
+    }
+  },
+  {
+    "name": "RiteBite Max Protein Daily Choco Berry 10 g Protein Bar - Pack of 2",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/35e6f086-86ed-496c-b9a6-bff4fb35bf17.png"],
+    "subcategory": "Energy Bars",
+    "unit": "2 x 50 g",
+    "stock": 25,
+    "price": 130,
+    "discount": 0,
+    "description": " Chocolate Bar with nuts and multigrains",
+    "more_details": {
+      "brand": "RiteBite",
+      "type": "Dessert Combo"
+    }
+  },
+  {
+    "name": "RiteBite Max Proten Date & Almond Protein Bar",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=120,h=120/da/cms-assets/cms/product/b5b249c2-5008-4652-815b-517c61dafffc.jpg"],
+    "subcategory": "Energy Bars",
+    "unit": "75g",
+    "stock": 25,
+    "price": 150,
+    "discount": 0,
+    "description": "",
+    "more_details": {
+      "brand": "RiteBite",
+      "type": "Dessert Combo"
+    }
+  }
+]

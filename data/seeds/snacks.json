@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Lay's India's Magic Masala Potato Chips (40 g)",
+    "image": ["http://res.cloudinary.com/dljwfy0pe/image/upload/v1726475071/binkeyit/jkaqtknhhb1tkktjljq9.jpg"],
+    "subcategory": "Chips",
+    "unit": "100g",
+    "stock": 100,
+    "price": 20,
+    "discount": 0,
+    "description": "Crunchy classic potato chips.",
+    "more_details": {
+      "brand": "Lays"
+    }
+  },
+  {
+    "name": "Balaji Crunchem Masala Masti Wafers",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5d1d522e-b037-47ae-959f-7607fbc26120.png"],
+    "subcategory": "Chips",
+    "unit": "100g",
+    "stock": 90,
+    "price": 20,
+    "discount": 0,
+    "description": "Spicy masala potato chips.",
+    "more_details": {
+      "brand": "Balaji"
+    }
+  },
+  {
+    "name": "Too Yumm Veggie Stix Sour Cream & Onion Crisps",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3ae69749-be21-4b8c-9cfc-812f23f75827.png"],
+    "subcategory": "Chips",
+    "unit": "150g",
+    "stock": 60,
+    "price": 35,
+    "discount": 5,
+    "description": "Veggie stix with sour cream & onion flavor.",
+    "more_details": {
+      "brand": "Too Yumm"
+    }
+  },
+  {
+    "name": "Haldiram's Nagpur Sev Bhujia",
+    "image": ["http://res.cloudinary.com/dljwfy0pe/image/upload/v1726474983/binkeyit/f1iorezj5lo7gtauqwsq.jpg"],
+    "subcategory": "Bhujia",
+    "unit": "200g",
+    "stock": 80,
+    "price": 60,
+    "discount": 5,
+    "description": "Spicy bhujia snack.",
+    "more_details": {
+      "brand": "Haldiram's"
+    }
+  },
+  {
+    "name": "Balaji Aloo Sev Bhujia",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c255c9c1-4433-498b-9c51-f60ee6e65a1f.png"],
+    "subcategory": "Bhujia",
+    "unit": "200g",
+    "stock": 70,
+    "price": 55,
+    "discount": 0,
+    "description": "Crispy sev bhujia.",
+    "more_details": {
+      "brand": "Balaji"
+    }
+  },
+  {
+    "name": "Balaji Shing Peanuts",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c7c66a2b-0bfe-48ac-ad9a-0479df7cb5cd.png"],
+    "subcategory": "Bhujia",
+    "unit": "250g",
+    "stock": 50,
+    "price": 80,
+    "discount": 10,
+    "description": "Crunchy shing peanuts.",
+    "more_details": {
+      "brand": "Balaji"
+    }
+  },
+  {
+    "name": "Haldiram's Nagpur Salted Fried Peanuts",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/0afe6d6d-482e-4ecf-aca6-052799a72a82.png"],
+    "subcategory": "Namkeen",
+    "unit": "200g",
+    "stock": 70,
+    "price": 50,
+    "discount": 0,
+    "description": "Salted fried peanuts.",
+    "more_details": {
+      "brand": "Haldiram's"
+    }
+  },
+  {
+    "name": "Garden Crispy Murukku Namkeen",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/049932e1-0c46-478e-a92b-10e2588ba09b.png"],
+    "subcategory": "Namkeen",
+    "unit": "200g",
+    "stock": 60,
+    "price": 45,
+    "discount": 5,
+    "description": "Crispy murukku namkeen.",
+    "more_details": {
+      "brand": "Garden"
+    }
+  },
+  {
+    "name": "Bikaji Masala Munch Soya Sticks",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=120,h=120/da/cms-assets/cms/product/2ea35ed4-4bab-4d55-8700-1b42cdac4e72.jpg"],
+    "subcategory": "Namkeen",
+    "unit": "200g",
+    "stock": 55,
+    "price": 40,
+    "discount": 0,
+    "description": "Crispy moong dal namkeen.",
+    "more_details": {
+      "brand": "Haldiram's"
+    }
+  },
+  {
+    "name": "Act II Sour Cream & Cheese Popcorn",
+    "image": ["http://res.cloudinary.com/dljwfy0pe/image/upload/v1726652523/binkeyit/gmmkvirniwmrbgchmytf.jpg"],
+    "subcategory": "Popcorn",
+    "unit": "200g",
+    "stock": 55,
+    "price": 40,
+    "discount": 0,
+    "description": "Sour Popcorn with cheese flavor",
+    "more_details": {
+      "brand": "Act II"
+    }
+  },
+  {
+    "name": "Act II Butter Popcorn",
+    "image": ["http://res.cloudinary.com/dljwfy0pe/image/upload/v1726652504/binkeyit/izasze0jget5t7cqh1ib.jpg"],
+    "subcategory": "Popcorn",
+    "unit": "200g",
+    "stock": 55,
+    "price": 40,
+    "discount": 0,
+    "description": "Butter flavored Popcorn",
+    "more_details": {
+      "brand": "Act II"
+    }
+  },
+  {
+    "name": "4700BC Himalayan Salt Caramel Popcorn",
+    "image": ["http://res.cloudinary.com/dljwfy0pe/image/upload/v1726652488/binkeyit/v9squ0wzdrsdymyvkrxr.jpg"],
+    "subcategory": "Popcorn",
+    "unit": "200g",
+    "stock": 55,
+    "price": 40,
+    "discount": 0,
+    "description": "Himalayan Salt Caramel Popcorn",
+    "more_details": {
+      "brand": "Himalayan Salt"
+    }
+  }
+]

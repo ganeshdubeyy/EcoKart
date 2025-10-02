@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Black Coffee - Instant",
+    "image": ["https://m.media-amazon.com/images/I/71lWDCLcO-L.jpg"],
+    "subcategory": "Coffee",
+    "unit": "100g",
+    "stock": 60,
+    "price": 120,
+    "discount": 10,
+    "description": "Rich and aromatic instant coffee.",
+    "more_details": {
+      "brand": "Nescafe"
+    }
+  },
+  {
+    "name": "Coffee Beans - Arabica",
+    "image": ["https://m.media-amazon.com/images/I/81uJbFuSM8L._UF1000,1000_QL80_.jpg"],
+    "subcategory": "Coffee",
+    "unit": "250g",
+    "stock": 40,
+    "price": 300,
+    "discount": 15,
+    "description": "Premium Arabica coffee beans.",
+    "more_details": {
+      "brand": "Blue Tokai"
+    }
+  },
+  {
+    "name": "Cappuccino - Instant",
+    "image": ["https://m.media-amazon.com/images/I/41c8RnbjrZL._SX300_SY300_QL70_FMwebp_.jpg"],
+    "subcategory": "Coffee",
+    "unit": "200g",
+    "stock": 50,
+    "price": 180,
+    "discount": 5,
+    "description": "Creamy instant cappuccino.",
+    "more_details": {
+      "brand": "Nescafe"
+    }
+  },
+  {
+    "name": "Energy Drink - Fruit Punch",
+    "image": ["https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQgiBFd3bNGJktEijvwVzzXe8TXsBOFscQyvfBkM0A9sbDAVLM8IAUUjTR8IqZ_EEsE1L4bdBrm2WtRSRHHMQGo5SomHqKMN_AjFefafsvYpdWXv1FxdaqR0muQUyWOAIVti5AtTvc&usqp=CAc"],
+    "subcategory": "Energy Drinks",
+    "unit": "500ml",
+    "stock": 70,
+    "price": 100,
+    "discount": 5,
+    "description": "Energizing fruit punch drink.",
+    "more_details": {
+      "brand": "Hell Energy"
+    }
+  },
+  {
+    "name": "Energy Drink - Original",
+    "image": ["https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbDjhi8TenyxeuSbmGPRRVPMixWA3pNsDzsIp0G7krVZsQTi4HP8eQq9Bf-oTGdoUCtkXoKIUV9mEngKPvmd-A4N7lMjRv7Aq7SQszFOuJmkFUAPwD1ZcCwfgPSeck2tMLvaopPg&usqp=CAc"],
+    "subcategory": "Energy Drinks",
+    "unit": "500ml",
+    "stock": 60,
+    "price": 95,
+    "discount": 0,
+    "description": "Classic energy drink.",
+    "more_details": {
+      "brand": "Red Bull"
+    }
+  },
+  {
+    "name": "Red Bull Energy Drink - Sugar Free",
+    "image": ["https://www.bbassets.com/media/uploads/p/l/40311389_1-red-bull-sugar-free-energy-drink.jpg"],
+    "subcategory": "Energy Drinks",
+    "unit": "500ml",
+    "stock": 45,
+    "price": 110,
+    "discount": 10,
+    "description": "Sugar-free energy drink.",
+    "more_details": {
+      "brand": "Red Bull"
+    }
+  },
+  {
+    "name": "Black Tea - Assam",
+    "image": ["https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYTsy_xMlWHgE7QX6suMWD5v4XVv_HRLKhc5GvPjzTKEyhbT4f88lrJ9yZSxpJuqtZbEsSYEszRcJFsUOwuD6qYP1JBOYirQnBDckAMCCi0U_5wMQg2rAck1t8nydQd4FZWULixTfPUgs&usqp=CAc"],
+    "subcategory": "Tea",
+    "unit": "250g",
+    "stock": 80,
+    "price": 200,
+    "discount": 10,
+    "description": "Strong Assam black tea.",
+    "more_details": {
+      "brand": "Society Tea"
+    }
+  },
+  {
+    "name": "Lipton Darjeeling Long Leaf Loose Tea",
+    "image": ["https://m.media-amazon.com/images/I/61usqjOISzL._SX679_.jpg"],
+    "subcategory": "Tea",
+    "unit": "250g",
+    "stock": 60,
+    "price": 300,
+    "discount": 15,
+    "description": "Premium Darjeeling tea.",
+    "more_details": {
+      "brand": "Lipton"
+    }
+  },
+  {
+    "name": "Red Label - Regular",
+    "image": ["https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTUeVNbC2HQIu25muKQ7PnQdou9laf98oIN9nzSLDqzyF_GSjSmsFOhLjfVZxIkMZhlvZ1Pu4nHca194fVsQTPFycVSYwtrwDlvNGL2BRdFASdNTYISaCGekkKUEgYtaFtb31mniA&usqp=CAc"],
+    "subcategory": "Tea",
+    "unit": "150g",
+    "stock": 100,
+    "price": 120,
+    "discount": 0,
+    "description": "Regular tea with great taste.",
+    "more_details": {
+      "brand": "Tata Tea"
+    }
+  },
+  {
+    "name": "Taj Mahal Tea with Long Leaves, 1kg, Black tea, Powder",
+    "image": ["https://m.media-amazon.com/images/I/51-Wt8W1o7L._SX300_SY300_QL70_FMwebp_.jpg"],
+    "subcategory": "Tea",
+    "unit": "25 bags",
+    "stock": 40,
+    "price": 180,
+    "discount": 5,
+    "description": "Taj Mahal Tea with Long Leaves, 1kg, Black tea, Powder.",
+    "more_details": {
+      "brand": "Taj Mahal"
+    }
+  },
+  {
+    "name": "Cola Drink - 500ml",
+    "image": ["https://m.media-amazon.com/images/I/31ThCCtvNSL._SX300_SY300_QL70_FMwebp_.jpg"],
+    "subcategory": "Soft Drinks",
+    "unit": "500ml",
+    "stock": 80,
+    "price": 50,
+    "discount": 0,
+    "description": "Classic cola beverage.",
+    "more_details": {
+      "brand": "Coca Cola"
+    }
+  },
+  {
+    "name": "Orange Soda - 500ml",
+    "image": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2fo0lYRbdSGCbqVJ4x11R8JXGQ85VJDjSUA&s"],
+    "subcategory": "Soft Drinks",
+    "unit": "500ml",
+    "stock": 70,
+    "price": 45,
+    "discount": 0,
+    "description": "Refreshing orange soda.",
+    "more_details": {
+      "brand": "Fanta"
+    }
+  },
+  {
+    "name": "Lemon-Lime Soda - 500ml",
+    "image": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiM63z4jrWqLTOHbYqLLNQ0JHeWi5nEITOig&s"],
+    "subcategory": "Soft Drinks",
+    "unit": "500ml",
+    "stock": 60,
+    "price": 50,
+    "discount": 0,
+    "description": "Tangy lemon-lime soda.",
+    "more_details": {
+      "brand": "Sprite"
+    }
+  },
+  {
+    "name": "Thums Up - 500ml",
+    "image": ["https://cdn.rationatmydoor.com/wp-content/uploads/2019/02/thumsup.jpg"],
+    "subcategory": "Soft Drinks",
+    "unit": "500ml",
+    "stock": 50,
+    "price": 55,
+    "discount": 0,
+    "description": "Strong cola flavor drink.",
+    "more_details": {
+      "brand": "Coca Cola"
+    }
+  }
+]

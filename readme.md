@@ -1,0 +1,1 @@
+# EcoKart Full Stack MERN App

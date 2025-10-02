@@ -1,0 +1,239 @@
+[
+  {
+    "name": "Pro Nature Whole Wheat Organic Atta",
+    "image": ["https://m.media-amazon.com/images/I/81vspv96hML._UF894,1000_QL80_.jpg"],
+    "subcategory": "Atta",
+    "unit": "5kg",
+    "stock": 50,
+    "price": 250,
+    "discount": 10,
+    "description": "High-quality whole wheat atta.",
+    "more_details": {
+      "brand": "Aashirvaad"
+    }
+  },
+  {
+    "name": "Fortune Chakki Fresh (100% Atta, 0% Maida)",
+    "image": ["https://m.media-amazon.com/images/I/71EcRUbX-BL._UF894,1000_QL80_.jpg"],
+    "subcategory": "Atta",
+    "unit": "5kg",
+    "stock": 40,
+    "price": 300,
+    "discount": 5,
+    "description": "Nutritious multigrain atta.",
+    "more_details": {
+      "brand": "Aashirvaad"
+    }
+  },
+  {
+    "name": "Aashirvaad Superior MP Whole Wheat Atta",
+    "image": ["https://m.media-amazon.com/images/I/51vCf15JkyL.jpg"],
+    "subcategory": "Atta",
+    "unit": "2kg",
+    "stock": 30,
+    "price": 180,
+    "discount": 15,
+    "description": "Organic whole wheat atta.",
+    "more_details": {
+      "brand": "Patanjali",
+      "organic": true
+    }
+  },
+  {
+    "name": "Tata Sampann 100% Chana Dal Fine BesanGram Flour",
+    "image": ["https://m.media-amazon.com/images/I/61XTBnVY8ML.jpg"],
+    "subcategory": "Besan",
+    "unit": "1kg",
+    "stock": 60,
+    "price": 80,
+    "discount": 5,
+    "description": "Fresh gram flour for cooking.",
+    "more_details": {
+      "brand": "Patanjali"
+    }
+  },
+  {
+    "name": "Samrat MP Sooji Rava",
+    "image": ["https://www.jiomart.com/images/product/original/491089355/samrat-rawa-sooji-500-g-product-images-o491089355-p590126611-0-202203170438.jpg"],
+    "subcategory": "Besan",
+    "unit": "500g",
+    "stock": 50,
+    "price": 50,
+    "discount": 0,
+    "description": "Fine gram flour for sweets.",
+    "more_details": {
+      "brand": "Aashirvaad"
+    }
+  },
+  {
+    "name": "Rajdhani Besan",
+    "image": ["https://assets.hyperpure.com/data/images/products/9173ce187ff7f53c7fdcd52a85154014.png"],
+    "subcategory": "Besan",
+    "unit": "1kg",
+    "stock": 35,
+    "price": 120,
+    "discount": 10,
+    "description": "Organic gram flour.",
+    "more_details": {
+      "brand": "Patanjali",
+      "organic": true
+    }
+  },
+  {
+    "name": "Fortune Maida",
+    "image": ["https://m.media-amazon.com/images/I/61JK6s+IIaL._UF894,1000_QL80_.jpg"],
+    "subcategory": "Maida",
+    "unit": "1kg",
+    "stock": 70,
+    "price": 40,
+    "discount": 0,
+    "description": "All purpose refined flour.",
+    "more_details": {
+      "brand": "Aashirvaad"
+    }
+  },
+  {
+    "name": "Natureland Chana Organic Besan",
+    "image": ["https://m.media-amazon.com/images/I/714+CNycZ0L.jpg"],
+    "subcategory": "Maida",
+    "unit": "5kg",
+    "stock": 60,
+    "price": 25,
+    "discount": 0,
+    "description": "Fine refined flour for baking.",
+    "more_details": {
+      "brand": "Aashirvaad"
+    }
+  },
+  {
+    "name": "India Gate Kolam Rice",
+    "image": ["https://www.jiomart.com/images/product/original/494333912/india-gate-wada-kolam-rice-10-kg-product-images-o494333912-p606771912-0-202312181122.jpg?im=Resize=(1000,1000)"],
+    "subcategory": "Rice",
+    "unit": "5kg",
+    "stock": 40,
+    "price": 450,
+    "discount": 20,
+    "description": "Aromatic premium basmati rice.",
+    "more_details": {
+      "brand": "India Gate"
+    }
+  },
+  {
+    "name": "Fortune Biryani Special Basmati Rice",
+    "image": ["https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQw8sNU1fNbcAEclttTSjMm6QWlqzbkvVPeeKrkvGuMDwI-31Hf8kSXindtlMaOjGRlkzVU4ToRhAHtgVwpmSZWQ8rHm8zCc0sVcG-s-5c"],
+    "subcategory": "Rice",
+    "unit": "5kg",
+    "stock": 50,
+    "price": 350,
+    "discount": 10,
+    "description": "Super basmati rice.",
+    "more_details": {
+      "brand": "India Gate"
+    }
+  },
+  {
+    "name": "Daawat Rozana Super Basmati Rice",
+    "image": ["https://m.media-amazon.com/images/I/71xqTSRdbML.jpg"],
+    "subcategory": "Rice",
+    "unit": "2kg",
+    "stock": 30,
+    "price": 200,
+    "discount": 15,
+    "description": "Healthy organic brown rice.",
+    "more_details": {
+      "brand": "Patanjali",
+      "organic": true
+    }
+  },
+  {
+    "name": "Royal Bullet Sona Masoori Rice",
+    "image": ["https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQd-4qvO_w1lM6VGmFuiq-9pq4LH11FH1TAApGd1VNpFV3HdiGc8rhaKTrfKfrhnpFC1pBjhE3y6aOjxF-GjM1rM3zPiG_QwfBv-o7srkVpJqimpTJZ1CHvhA"],
+    "subcategory": "Rice",
+    "unit": "5kg",
+    "stock": 60,
+    "price": 250,
+    "discount": 5,
+    "description": "Popular Sona Masoori rice.",
+    "more_details": {
+      "brand": "India Gate"
+    }
+  },
+  {
+    "name": "Fortune Toor Dal",
+    "image": ["https://m.media-amazon.com/images/I/61HWmesEe-L._SX679_.jpg"],
+    "subcategory": "Dal",
+    "unit": "1kg",
+    "stock": 80,
+    "price": 120,
+    "discount": 0,
+    "description": "Split toor dal.",
+    "more_details": {
+      "brand": "Tata"
+    }
+  },
+  {
+    "name": "Tata Sampann Urad Dal",
+    "image": ["https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLGO1tyXD4hqLqQN3QeGaDXhCIzt5nIWDFlGISNd28NxpFn0ASI67R6j-sBbwxG895360KpBmGtOW1caaBJZp7VnbVRbqzF0SNXcI3ypsZFy0MhQOu9QUV"],
+    "subcategory": "Dal",
+    "unit": "1kg",
+    "stock": 70,
+    "price": 100,
+    "discount": 5,
+    "description": "Split moong dal.",
+    "more_details": {
+      "brand": "Tata"
+    }
+  },
+  {
+    "name": "Tata Sampann Urad Dal",
+    "image": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_NEX57DD9Mc65RlLE4dwlkFNvWI_WmsipoA&s"],
+    "subcategory": "Dal",
+    "unit": "1kg",
+    "stock": 60,
+    "price": 110,
+    "discount": 0,
+    "description": "Split chana dal.",
+    "more_details": {
+      "brand": "Tata"
+    }
+  },
+  {
+    "name": "Urad Dal - Split",
+    "image": ["https://godchoice.in/cdn/shop/files/URAD_SPLIT_WHITE.jpg?v=1751359468"],
+    "subcategory": "Dal",
+    "unit": "1kg",
+    "stock": 55,
+    "price": 130,
+    "discount": 10,
+    "description": "Split urad dal.",
+    "more_details": {
+      "brand": "Tata"
+    }
+  },
+  {
+    "name": "Masoor Dal - Split",
+    "image": ["https://m.media-amazon.com/images/I/61Lsg2fIdkL._UF894,1000_QL80_.jpg"],
+    "subcategory": "Dal",
+    "unit": "1kg",
+    "stock": 65,
+    "price": 90,
+    "discount": 0,
+    "description": "Split masoor dal.",
+    "more_details": {
+      "brand": "Tata"
+    }
+  },
+  {
+    "name": "Mixed Dal - 5 Varieties",
+    "image": ["https://ranibrand.com/cdn/shop/files/680901082925RaniMixedDalLentils4lbsfront_1024x1024.jpg?v=1699408355"],
+    "subcategory": "Dal",
+    "unit": "1kg",
+    "stock": 40,
+    "price": 150,
+    "discount": 5,
+    "description": "Mixed dal with 5 varieties.",
+    "more_details": {
+      "brand": "Tata"
+    }
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Modern Whole Wheat Bread",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d530857b-40c0-4b59-9edf-c9ff49a7e597.png"],
+    "subcategory": "Bread",
+    "unit": "400g",
+    "stock": 50,
+    "price": 40,
+    "discount": 5,
+    "description": "Soft and healthy whole wheat bread.",
+    "more_details": {
+      "brand": "Britannia"
+    }
+  },
+  {
+    "name": "English Oven Sandwich White Bread",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/fb337791-9328-4c38-a2ee-bc3bb20d204a.png"],
+    "subcategory": "Bread",
+    "unit": "400g",
+    "stock": 60,
+    "price": 35,
+    "discount": 0,
+    "description": "Soft white bread for daily use.",
+    "more_details": {
+      "brand": "Modern"
+    }
+  },
+  {
+    "name": "The Health Factory Multigrain Bread",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d5b14dbb-3617-4090-aefc-aef6bcc356da.png"],
+    "subcategory": "Bread",
+    "unit": "400g",
+    "stock": 40,
+    "price": 50,
+    "discount": 5,
+    "description": "Nutritious multigrain bread.",
+    "more_details": {
+      "brand": "Britannia"
+    }
+  },
+  {
+    "name": "Brown Bread Toast",
+    "image": ["https://m.media-amazon.com/images/I/51-+HH9Z+NS._UF894,1000_QL80_.jpg"],
+    "subcategory": "Toast",
+    "unit": "200g",
+    "stock": 45,
+    "price": 25,
+    "discount": 0,
+    "description": "Crispy brown bread toast.",
+    "more_details": {
+      "brand": "Britannia"
+    }
+  },
+  {
+    "name": "Garlic Toast",
+    "image": ["https://5.imimg.com/data5/SELLER/Default/2022/4/II/EW/BW/7512341/garlic-toast-500x500.jpeg"],
+    "subcategory": "Toast",
+    "unit": "200g",
+    "stock": 35,
+    "price": 30,
+    "discount": 5,
+    "description": "Flavorful garlic toast.",
+    "more_details": {
+      "brand": "Modern"
+    }
+  },
+  {
+    "name": "Cheese Toast",
+    "image": ["https://m.media-amazon.com/images/I/61OTaBiRd2L._UF1000,1000_QL80_.jpg"],
+    "subcategory": "Toast",
+    "unit": "200g",
+    "stock": 40,
+    "price": 35,
+    "discount": 5,
+    "description": "Golden crispy cheese toast.",
+    "more_details": {
+      "brand": "Britannia"
+    }
+  },
+  {
+    "name": "Britannia Marie Gold Vita Marie Biscuits",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/88cdcc8c-a649-466c-98c5-40f83841a149.png"],
+    "subcategory": "Glucose and Marie",
+    "unit": "150g",
+    "stock": 90,
+    "price": 30,
+    "discount": 0,
+    "description": "Light and crispy Marie biscuits.",
+    "more_details": {
+      "brand": "Britannia"
+    }
+  },
+  {
+    "name": "Parle-G Gold Biscuit",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6e984e48-07b9-4a5b-8915-21b70ae5f7e5.png"],
+    "subcategory": "Glucose and Marie",
+    "unit": "187.5g",
+    "stock": 70,
+    "price": 20,
+    "discount": 0,
+    "description": "Classic glucose biscuit.",
+    "more_details": {
+      "brand": "Parle"
+    }
+  },
+  {
+    "name": "Britannia Good Day Cashew Biscuit",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/32f9e932-d9ca-4429-8496-ed74420acd08.png"],
+    "subcategory": "Glucose and Marie",
+    "unit": "200g",
+    "stock": 70,
+    "price": 40,
+    "discount": 0,
+    "description": "Buttery cashew biscuits.",
+    "more_details": {
+      "brand": "Britannia"
+    }
+  }, 
+  {
+    "name": "Parle Monaco Light Salty Classic Regular Biscuit",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=120,h=120/da/cms-assets/cms/product/7fb05506-56f9-4fb0-bb84-874b06b02a94.jpg"],
+    "subcategory": "Glucose and Marie",
+    "unit": "200g",
+    "stock": 70,
+    "price": 40,
+    "discount": 0,
+    "description": "Light and crispy salty biscuit.",
+    "more_details": {
+      "brand": "Parle"
+    }
+  },   
+  {
+    "name": "Sapphire Silver Collection Butter Cookies Gift Pack",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/0cabfa03-1baa-454e-ade4-344f5219f6fa.png"],
+    "subcategory": "Cookies",
+    "unit": "400g",
+    "stock": 60,
+    "price": 300,
+    "discount": 10,
+    "description": "Assorted butter cookies.",
+    "more_details": {
+      "brand": "Sapphire"
+    }
+  },
+  {
+    "name": "Hide & Seek Chocolate Chip Cookies",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6436f9c2-9e36-454a-b68b-96f61d782ecf.png"],
+    "subcategory": "Cookies",
+    "unit": "100g",
+    "stock": 50,
+    "price": 30,
+    "discount": 5,
+    "description": "Chocolate chip cookies.",
+    "more_details": {
+      "brand": "Parle"
+    }
+  },
+  {
+    "name": "Cadbury Oreo Chocolate Flavour Sandwich Cream Biscuits + Vanilla Flavour Sandwich Cream Biscuits Combo Pack",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6afa705b-a2a6-499d-afb6-3790ce3f6f0b.png"],
+    "subcategory": "Cookies",
+    "unit": "125.25 g + 125.25 g",
+    "stock": 40,
+    "price": 80,
+    "discount": 0,
+    "description": "Classic Oreo cookies.",
+    "more_details": {
+      "brand": "Oreo"
+    }
+  },
+  {
+    "name": "Sunfeast Dark Fantasy Choco Fills Cookies (230 g)",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/643cd558-34d3-4a88-9b60-3fabe9723dbb.png"],
+    "subcategory": "Cookies",
+    "unit": "230g",
+    "stock": 55,
+    "price": 99,
+    "discount": 0,
+    "description": "Cookies filled with creamy chocolate.",
+    "more_details": {
+      "brand": "Sunfeast"
+    }
+  },
+  {
+    "name": "Sunfeast Dark Fantasy Yumfills Choco Pie",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/f0ffdc32-4456-4fff-9492-3ff07701cf83.png"],
+    "subcategory": "Cakes and Rolls",
+    "unit": "250g",
+    "stock": 30,
+    "price": 120,
+    "discount": 10,
+    "description": "Soft choco pie with creamy filling.",
+    "more_details": {
+      "brand": "Sunfeast"
+    }
+  },
+  {
+    "name": "Lotte Choco Pie - 12 units",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/4a21bcbc-7334-4845-9350-d3eaf6e75fc7.png"],
+    "subcategory": "Cakes and Rolls",
+    "unit": "12 units",
+    "stock": 25,
+    "price": 140,
+    "discount": 5,
+    "description": "Classic Lotte choco pie.",
+    "more_details": {
+      "brand": "Lotte"
+    }
+  },
+  {
+    "name": "Red Velvet Cake",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/e9a2259a-0113-4760-9c48-beeab9d0ccb3.png"],
+    "subcategory": "Cakes and Rolls",
+    "unit": "300g",
+    "stock": 20,
+    "price": 150,
+    "discount": 10,
+    "description": "Rich red velvet cake.",
+    "more_details": {
+      "brand": "Cakewala"
+    }
+  },
+  {
+    "name": "Winkies Chocolate Swiss Roll",
+    "image": ["https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/690fa5ec-9e0b-4600-b849-36154c5aeec6.png"],
+    "subcategory": "Cakes and Rolls",
+    "unit": "250g",
+    "stock": 35,
+    "price": 130,
+    "discount": 5,
+    "description": "Soft chocolate swiss roll.",
+    "more_details": {
+      "brand": "Winkies"
+    }
+  }
+]
