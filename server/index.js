@@ -1,7 +1,10 @@
 import express from 'express'
 import cors from 'cors'
 import dotenv from 'dotenv'
-dotenv.config()
+// Only run dotenv in development
+if (process.env.NODE_ENV !== 'production') {
+  dotenv.config()
+}
 import cookieParser from 'cookie-parser'
 import morgan from 'morgan'
 import helmet from 'helmet'
