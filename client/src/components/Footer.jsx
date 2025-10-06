@@ -46,7 +46,7 @@ const Footer = () => {
             </ul>
             <div className='flex items-center gap-3 mt-4'>
               <a href='#' className='w-9 h-9 rounded-full bg-green-700 hover:bg-green-600 flex items-center justify-center text-white'><FaFacebookF/></a>
-              <a href='#' className='w-9 h-9 rounded-full bg-green-700 hover:bg-green-600 flex items-center justify-center text-white'><FaInstagram/></a>
+              <a href='https://www.instagram.com/ecokartofficial' className='w-9 h-9 rounded-full bg-green-700 hover:bg-green-600 flex items-center justify-center text-white'><FaInstagram/></a>
               <a href='#' className='w-9 h-9 rounded-full bg-green-700 hover:bg-green-600 flex items-center justify-center text-white'><FaTwitter/></a>
               <a href='#' className='w-9 h-9 rounded-full bg-green-700 hover:bg-green-600 flex items-center justify-center text-white'><FaLinkedinIn/></a>
             </div>
